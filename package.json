@@ -1,0 +1,25 @@
+{
+  "name": "kotakaclient",
+  "version": "1.0.0",
+  "description": "Kotaka (小鷹 / こたか) Client is an economy manager that utilizes sqlite3 as a database manager.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/RiskyRomero/kotakaclient.git"
+  },
+  "keywords": [
+    "discord",
+    "sqlite3",
+    "economy",
+    "manager"
+  ],
+  "author": "Ryumin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/RiskyRomero/kotakaclient/issues"
+  },
+  "homepage": "https://gitlab.com/RiskyRomero/kotakaclient#readme"
+}
